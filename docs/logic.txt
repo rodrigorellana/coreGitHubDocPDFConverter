@@ -1,0 +1,36 @@
+FATHER
+
+	https://github.com/mapsplugin/cordova-plugin-googlemaps  (father no "+ .md")
+	->
+		https://raw.githubusercontent.com/mapsplugin/cordova-plugin-googlemaps/master/README.md
+			-> MD RAW FILE
+
+SONS
+	
+	https://github.com/mapsplugin/cordova-plugin-googlemaps/wiki/Map  +.md
+		-> https://raw.githubusercontent.com/wiki/mapsplugin/cordova-plugin-googlemaps/Map.md
+			-> MD RAW FILE
+			
+	https://github.com/mapsplugin/cordova-plugin-googlemaps/wiki/Map.getMap() + .md
+	 ->		MD RAW FILE
+				
+	http://goo.gl/Eq2c2p
+		-> 
+			Chorme : https://github.com/mapsplugin/cordova-plugin-googlemaps/wiki/Map.getLicenseInfo() HTML				 
+			.NET = https://github.com/mapsplugin/cordova-plugin-googlemaps/wiki/Map.getLicenseInfo() HTML
+				
+				
+		-> https://github.com/mapsplugin/cordova-plugin-googlemaps/wiki/Map.getLicenseInfo().md	
+			-> MD RAW FILE
+
+
+pago
+	convertir todo a todo 
+		https://stackedit.io/editor#
+
+
+	html to pdf
+		https://convertio.co/es/html-pdf/
+		
+
+		

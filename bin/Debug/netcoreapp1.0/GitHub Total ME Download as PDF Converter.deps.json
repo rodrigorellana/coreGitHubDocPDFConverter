@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "GitHub Total ME Download as PDF Converter/1.0.0": {
+        "runtime": {
+          "GitHub Total ME Download as PDF Converter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GitHub Total ME Download as PDF Converter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
